@@ -1,4 +1,4 @@
-# helpful_github_resources
+# Github Resources
 
 
 ## Branches
@@ -8,3 +8,9 @@
 
 ### Deleting Branches
 - https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
+
+
+# Bash Resources
+
+## Exit Codes
+- https://shapeshed.com/unix-exit-codes/
